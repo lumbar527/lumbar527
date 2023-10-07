@@ -11,6 +11,6 @@ I am currently learning how to program in **[Unity](https://unity.com)** and **C
 I like **Lord of the Rings** a lot and you may see references to it in my works.
 
 ![lumbar527's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumbar527&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumbar527&theme=dark)](https://github.com/lumbar527/github-readme-stats)[^*]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumbar527&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[^*]
 
 [^*]: Thanks to https://github.com/anuraghazra/github-readme-stats, I can display my GitHub stats
