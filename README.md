@@ -1,6 +1,6 @@
 Hello, I am **lumbar527**.
 
-I have created the Python text-adventure game **[Dungeons-of-Kathallion](https://github.com/Dungeons-of-Kathallion/Dungeons-of-Kathallion)**
+I have created the Python text-adventure game **[Dungeons-of-Kathallion](https://dungeons-of-kathallion.github.io/)**
 
 One of my favorite video games is **[Endless Sky](https://github.com/endless-sky/endless-sky)**. I have made a few contributions to it and I am also working with **[Cromha](https://github.com/OcelotWalrus)** on a plugin for it: **[Cromha-Expansion-plugin](https://github.com/OcelotWalrus/Cromha-Expansion-plugin)**.
 
